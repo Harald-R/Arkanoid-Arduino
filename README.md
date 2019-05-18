@@ -5,3 +5,8 @@ This is an Arduino project depicting the Arkanoid game. It features one level wi
 - yellow blocks: 2 hits
 - blue blocks: 3 hits
 
+![Project diagram](https://raw.githubusercontent.com/Harald-R/Arkanoid-Arduino/master/diagrams/diagram_bb.png)
+
+## Notes
+
+This project was created as a university project.
